@@ -1,0 +1,8 @@
+{
+  "name": "E-Commerce Web Demo",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "extensions": [
+      "ritwickdey.LiveServer"
+  ],
+  "postCreateCommand": "echo 'E-Commerce Website ready to run!'"
+}
